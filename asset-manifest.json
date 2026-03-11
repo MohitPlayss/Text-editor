@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MohitPlayss/Text-editor/static/css/main.83a9c3a1.css",
-    "main.js": "/MohitPlayss/Text-editor/static/js/main.103f3857.js",
-    "static/js/453.c8beb531.chunk.js": "/MohitPlayss/Text-editor/static/js/453.c8beb531.chunk.js",
-    "index.html": "/MohitPlayss/Text-editor/index.html",
-    "main.83a9c3a1.css.map": "/MohitPlayss/Text-editor/static/css/main.83a9c3a1.css.map",
-    "main.103f3857.js.map": "/MohitPlayss/Text-editor/static/js/main.103f3857.js.map",
-    "453.c8beb531.chunk.js.map": "/MohitPlayss/Text-editor/static/js/453.c8beb531.chunk.js.map"
+    "main.css": "/text-editor/static/css/main.83a9c3a1.css",
+    "main.js": "/text-editor/static/js/main.dee1d6d8.js",
+    "static/js/453.c8beb531.chunk.js": "/text-editor/static/js/453.c8beb531.chunk.js",
+    "index.html": "/text-editor/index.html",
+    "main.83a9c3a1.css.map": "/text-editor/static/css/main.83a9c3a1.css.map",
+    "main.dee1d6d8.js.map": "/text-editor/static/js/main.dee1d6d8.js.map",
+    "453.c8beb531.chunk.js.map": "/text-editor/static/js/453.c8beb531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83a9c3a1.css",
-    "static/js/main.103f3857.js"
+    "static/js/main.dee1d6d8.js"
   ]
 }
