@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MohitPlayss/Text-editor/static/css/main.83a9c3a1.css",
+    "main.js": "/MohitPlayss/Text-editor/static/js/main.103f3857.js",
+    "static/js/453.c8beb531.chunk.js": "/MohitPlayss/Text-editor/static/js/453.c8beb531.chunk.js",
+    "index.html": "/MohitPlayss/Text-editor/index.html",
+    "main.83a9c3a1.css.map": "/MohitPlayss/Text-editor/static/css/main.83a9c3a1.css.map",
+    "main.103f3857.js.map": "/MohitPlayss/Text-editor/static/js/main.103f3857.js.map",
+    "453.c8beb531.chunk.js.map": "/MohitPlayss/Text-editor/static/js/453.c8beb531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a9c3a1.css",
+    "static/js/main.103f3857.js"
+  ]
+}
